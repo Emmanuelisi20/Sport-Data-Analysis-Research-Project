@@ -7,7 +7,7 @@
 Sport Data Analysis Research Project | Jul 2019 – May 2020
 --
 
-Project description:
+Project Description:
 --
 
 ∎ Maintained sports records for alumnus Roger Lee Brown who played
